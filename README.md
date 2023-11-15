@@ -9,7 +9,7 @@
 </p>
 
 
-# Hat Game
+# Ant Smash
 
 A Mobile game built with [Unity](https://unity.com/).
 
@@ -18,7 +18,7 @@ A Mobile game built with [Unity](https://unity.com/).
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)]()
 [![](https://img.shields.io/badge/tests-not%20tested-red.svg)]()
 [![](https://img.shields.io/badge/platform-Android%20%7C%20Simulator-blue.svg)]()
-[![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/AiltonVieira/hat-game/releases)
+[![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/AiltonVieira/ant-smash/releases)
 [![](https://img.shields.io/badge/unity-2D-brightgreen.svg)]()
 
 ## Description
